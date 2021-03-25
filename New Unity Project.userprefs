@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AutoDrivenCar\AutoDrive.cs">
+    <Files>
+      <File FileName="Assets\AutoDrivenCar\TestingArdu.cs" Line="118" Column="1" />
+      <File FileName="Assets\AutoDrivenCar\AutoDrive.cs" Line="36" Column="30" />
+      <File FileName="Assets\AutoDrivenCar\Ultra_Ardu.cs" Line="16" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="AutoDrivenCar" expanded="True">
+              <Node name="AutoDrive.cs" selected="True" />
+            </Node>
+            <Node name="Uniduino" expanded="True">
+              <Node name="Tutorials" expanded="True">
+                <Node name="Analog Write (PWM)" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,59 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-14024
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=447 outsize=447 ok=1
+Cmd: preprocess
+  insize=1584 outsize=2245 ok=1
+Cmd: preprocess
+  insize=818 outsize=818 ok=1
+Cmd: preprocess
+  insize=1423 outsize=2190 ok=1
+Cmd: preprocess
+  insize=1048 outsize=887 ok=1
+Cmd: preprocess
+  insize=472 outsize=472 ok=1
+Cmd: preprocess
+  insize=835 outsize=835 ok=1
+Cmd: preprocess
+  insize=730 outsize=730 ok=1
+Cmd: preprocess
+  insize=608 outsize=608 ok=1
+Cmd: preprocess
+  insize=1659 outsize=1075 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (30): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=866 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3167 outsize=1853 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1620 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1424 outsize=619 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (38): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1107 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1388 outsize=608 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1082 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1355 outsize=1355 ok=1
+Cmd: preprocess
+  insize=316 outsize=316 ok=1
+Cmd: preprocess
+  insize=1583 outsize=751 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1134 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=634 outsize=634 ok=1
+Cmd: preprocess
+  insize=963 outsize=963 ok=1
+Cmd: preprocess
+  insize=1808 outsize=1091 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (53): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1019 outsize=0 kw= ok=0
